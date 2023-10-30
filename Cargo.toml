@@ -1,0 +1,12 @@
+[package]
+name = "serialize_bits"
+version = "0.1.0"
+edition = "2021"
+
+[[test]]
+name = "types"
+
+[[test]]
+name = "custom"
+
+[dependencies]
