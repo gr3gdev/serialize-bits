@@ -1,7 +1,14 @@
 [package]
 name = "serialize_bits"
+description = "Serialization/Deserialization in bits"
 version = "0.1.0"
+authors = ["Grégory Tardivel"]
+repository = "https://github.com/gr3gdev/serialize-bits"
 edition = "2021"
+license-file = "LICENSE"
+keywords = ["serialize", "deserialize"]
+categories = ["data"]
+exclude = ["/.github", "/target"]
 
 [[test]]
 name = "types"
